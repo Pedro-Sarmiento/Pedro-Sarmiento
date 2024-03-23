@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hello, I´m Pedro Sarmiento 👋</h1>
 </div>
-![Header](./PedroSarmiento_header.png)
+<img src="https://imgur.com/a/GDCf3Jy">
 
 
 
