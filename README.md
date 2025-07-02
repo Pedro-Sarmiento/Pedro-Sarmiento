@@ -1,12 +1,10 @@
 
 ![logo](https://github.com/Pedro-Sarmiento/Pedro-Sarmiento/blob/main/PedroSarmiento_header.png)
  <h1 align="center">Hi👋, I'm Pedro Sarmiento</h1>
-<h3 align="center">👨‍💻 Data Science & Engineering | Final Year Student 🎓</h3>
+<h3 align="center">👨‍💻 Data Scientist | Data Engineer | AI Engineer | ML Engineer </h3>
 <img align="right" alt="coding" width="400px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pedro-Sarmiento&label=Profile%20views&color=0e75b6&style=flat" alt="Pedro-Sarmiento" /> </p>
-
-- 🔭 I’m currently working on my final degree project.
 
 - 📫 How to reach me **pedrosarmientoyanez@gmail.com**
 
