@@ -48,8 +48,4 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro-Sarmiento&show_icons=true&locale=en&layout=compact" alt="Pedro-Sarmiento" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Sarmiento&show_icons=true&locale=en" alt="Pedro-Sarmiento" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Sarmiento&" alt="Pedro-Sarmiento" /></p>
