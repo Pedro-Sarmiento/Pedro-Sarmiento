@@ -103,7 +103,6 @@ Older academic and exploratory work — useful as reference, not as portfolio ce
 
 - **[CDT](https://github.com/Pedro-Sarmiento/CDT)** — Data Science applied to Tourism (university coursework).
 - **[PLN](https://github.com/Pedro-Sarmiento/PLN)** — Natural Language Processing exercises and projects.
-- *(add the rest as you clean them up)*
 </details>
 
 ---
