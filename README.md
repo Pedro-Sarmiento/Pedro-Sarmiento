@@ -85,15 +85,6 @@ Some of my work lives in private repositories due to commercial agreements. Here
 
 ---
 
-### >_ GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Sarmiento&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Sarmiento&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### >_ Project Vault
 
 Older academic and exploratory work — useful as reference, not as portfolio centerpieces.
