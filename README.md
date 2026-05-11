@@ -84,20 +84,6 @@ Some of my work lives in private repositories due to commercial agreements. Here
 </p>
 
 ---
-
-### >_ Project Vault
-
-Older academic and exploratory work — useful as reference, not as portfolio centerpieces.
-
-<details>
-<summary><b>[+] Academic & University Projects</b></summary>
-
-- **[CDT](https://github.com/Pedro-Sarmiento/CDT)** — Data Science applied to Tourism (university coursework).
-- **[PLN](https://github.com/Pedro-Sarmiento/PLN)** — Natural Language Processing exercises and projects.
-</details>
-
----
-
 ### >_ Contact
 
 <p align="left">
