@@ -31,7 +31,7 @@ Some of my work lives in private repositories due to commercial agreements. Here
 | Project | Status | Description |
 | :--- | :--- | :--- |
 | **Bee2Fire** | Private — ITgest | AI-driven fire detection platform for industrial environments. Thermal + optical camera fusion, real-time risk monitoring. Full-stack contributions: AI pipeline, CI/CD automation, container stack, backend & frontend. |
-| **GPT-4 Domain App** | Private — The Singular Factory | Web application built on GPT-4 with advanced prompt engineering. Three interaction modes: text-to-text, TTS (ElevenLabs), STT (Whisper). React + Flask. |
+| **GPT-4 Domain App** | Public | Web application built on GPT-4 with advanced prompt engineering. Three interaction modes: text-to-text, TTS (ElevenLabs), STT (DeepGram). React + Flask. |
 | **TFG — Hallucination Mitigation in RAG** | Academic | Bachelor's Thesis. Detection, mitigation, and evaluation techniques for hallucinations in LLMs operating in critical environments. |
 | **TFM — LaLiga Hypermotion Predictor** | In progress | Master's Thesis. Comparative study of predictive models for promotion and relegation in Spanish football's second division. |
 
