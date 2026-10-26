@@ -12,13 +12,13 @@
 
 ### >_ About Me
 
-I build AI systems and make sure they run in production. Currently AI Engineer Intern at **ITgest** through the **Cantabria Tech Talent** program, working on **Bee2Fire** — an AI-driven fire detection platform for industrial environments that combines thermal and optical camera feeds for real-time risk monitoring.
+I build AI systems and make sure they run in production. Currently AI Engineer at **ITgest**, working on different projects such as **Bee2Fire** — an AI-driven fire detection platform for industrial environments that combines thermal and optical camera feeds for real-time risk monitoring.
 
 My work spans the full stack, from the AI detection layer down to deployment: extending ML / computer vision pipelines, modernizing container stacks, automating CI/CD, and shipping new functionality to clients.
 
-I came into AI through the side door. I started in data science (BSc at ULPGC), but when LLMs exploded in 2022/23 I went all-in. My Bachelor's Thesis focused on **detecting, mitigating, and evaluating hallucinations in RAG systems** for critical environments.
+I started in data science (BSc at ULPGC), but when LLMs exploded in 2022/23 I went all-in. My Bachelor's Thesis focused on **detecting, mitigating, and evaluating hallucinations in RAG systems** for critical environments.
 
-Currently finishing an **MSc in Artificial Intelligence** at UNIR, with a Master's Thesis comparing predictive models for promotion and relegation in **LaLiga Hypermotion**. Also enrolled in an advanced **DevOps & Cloud** program — because keeping AI systems running in production is just as interesting as building them.
+**MSc in Artificial Intelligence** at UNIR, with a Master's Thesis comparing predictive models for promotion and relegation in **LaLiga Hypermotion**. Also an advanced **DevOps & Cloud** program — because keeping AI systems running in production is just as interesting as building them.
 
 If you're working on AI in production, I'd love to connect.
 
